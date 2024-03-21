@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="AddonConfig.Rules.1f2bee46-6e19-ca78-4151-12d88a31aced.Caption" Value="Apply static filter: Manager" />
+			<Item Name="AddonConfig.Rules.4b887a45-1f17-2f41-07ff-e1b0626e3b13.Caption" Value="ChildRule-7ea44617-8f2c-2f2b-74cb-862ab3885660-ClearValue" />
+			<Item Name="AddonConfig.Rules.7495891c-c437-2db1-5002-3f0321ec2990.Caption" Value="Apply static filter: City" />
+			<Item Name="AddonConfig.Rules.7ea44617-8f2c-2f2b-74cb-862ab3885660.Caption" Value="Apply filter: City" />
+			<Item Name="AddonConfig.Rules.a2c54799-b1a1-805e-d102-8b6c5af0e043.Caption" Value="Apply static filter: State" />
+			<Item Name="AddonConfig.Rules.c73eac9a-a8ea-b966-b386-d01ecd90f3c6.Caption" Value="ChildRule-7ea44617-8f2c-2f2b-74cb-862ab3885660-PopulateValue" />
+			<Item Name="Caption" Value="Realty FreedomUI (Business rules)" />
+		</Items>
+	</Group>
+</Resources>

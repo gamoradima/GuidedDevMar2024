@@ -3,8 +3,13 @@
 	<Group Type="String">
 		<Items>
 			<Item Name="Caption" Value="Realty FreedomUI form page" />
+			<Item Name="LocalizableStrings.addRecord_1gcoe7q_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_dykg1t6_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_fmgwtxg_caption.Value" Value="Add new" />
 			<Item Name="LocalizableStrings.addRecord_pijvmxu_caption.Value" Value="Add new" />
 			<Item Name="LocalizableStrings.addRecord_uw0dvsp_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.Button_e8zdnsd_caption.Value" Value="Push me!" />
+			<Item Name="LocalizableStrings.NumberInput_s0y3mz3_label.Value" Value="Number" />
 		</Items>
 	</Group>
 </Resources>

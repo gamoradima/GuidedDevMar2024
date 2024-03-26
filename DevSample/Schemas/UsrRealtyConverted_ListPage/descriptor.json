@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "452712db-56af-4445-b233-241c91500a51",
+    "Name": "UsrRealtyConverted_ListPage",
+    "ModifiedOnUtc": "\/Date(1711379602000)\/",
+    "Parent": {
+      "UId": "3334b6c0-c8ab-4b59-a367-0c9182102552",
+      "Name": "ListPageV2Template"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Realty Converted list page"
+  }
+}

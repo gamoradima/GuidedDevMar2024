@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "8475a6f3-1494-4389-b9bd-1fdae20324fe",
+    "Name": "UsrRealtyClassicInFolder",
+    "ModifiedOnUtc": "\/Date(1711376322000)\/",
+    "Parent": {
+      "UId": "4f63bafb-e9e7-4082-b92e-66b97c14017c",
+      "Name": "BaseItemInFolder"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Realty Classic in Folder",
+    "DependsOn": []
+  }
+}

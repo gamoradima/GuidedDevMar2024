@@ -143,6 +143,28 @@ define("UsrRealtyFreedomUI_FormPage", /**SCHEMA_DEPS*/[]/**SCHEMA_DEPS*/, functi
 			},
 			{
 				"operation": "insert",
+				"name": "CalcAveragePriceMenuItem",
+				"values": {
+					"type": "crt.MenuItem",
+					"caption": "#ResourceString(MenuItem_bsfetz9_caption)#",
+					"visible": true,
+					"clicked": {
+						"request": "crt.RunBusinessProcessRequest",
+						"params": {
+							"processName": "UsrCalculateAveragePriceProcess",
+							"processRunType": "ForTheSelectedPage",
+							"showNotification": true,
+							"recordIdProcessParameterName": "RealtyIdParameter"
+						}
+					},
+					"icon": "calculator-button-icon"
+				},
+				"parentName": "Button_0zgfonu",
+				"propertyName": "menuItems",
+				"index": 1
+			},
+			{
+				"operation": "insert",
 				"name": "PushMeButton",
 				"values": {
 					"type": "crt.Button",

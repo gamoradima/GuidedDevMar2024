@@ -16,7 +16,10 @@
 			<Item Name="BaseElements.ConditionalSequenceFlow1.Caption" Value="N &gt; 0" />
 			<Item Name="BaseElements.DefaultSequenceFlow1.Caption" Value="N == 0" />
 			<Item Name="BaseElements.FormulaTask1.Caption" Value="N = N - 1" />
+			<Item Name="BaseElements.FormulaTask2.Caption" Value="get Realty Id" />
 			<Item Name="BaseElements.StartEvent1.Caption" Value="Start" />
+			<Item Name="BaseElements.StartSignal1.Caption" Value="realty added" />
+			<Item Name="BaseElements.StartSignal1.Parameters.RecordId.Caption" Value="Unique identifier of record" />
 			<Item Name="BaseElements.TerminateEvent1.Caption" Value="The end" />
 			<Item Name="Caption" Value="Add realty visits process" />
 			<Item Name="LaneSets.LaneSet1.Caption" Value="LaneSet 1" />

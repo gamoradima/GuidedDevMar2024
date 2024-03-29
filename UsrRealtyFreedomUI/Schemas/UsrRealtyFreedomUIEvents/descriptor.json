@@ -4,6 +4,7 @@
     "Name": "UsrRealtyFreedomUIEvents",
     "ModifiedOnUtc": "\/Date(1711469759000)\/",
     "ManagerName": "SourceCodeSchemaManager",
-    "Caption": "UsrRealtyFreedomUIEvents"
+    "Caption": "UsrRealtyFreedomUIEvents",
+    "DependsOn": []
   }
 }

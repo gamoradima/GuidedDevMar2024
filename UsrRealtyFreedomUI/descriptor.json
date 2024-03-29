@@ -1,6 +1,7 @@
 ﻿{
   "Descriptor": {
     "UId": "f220dd86-afe5-4dcc-8d51-9781e79f123b",
+    "PackageVersion": "8.1.2",
     "Name": "UsrRealtyFreedomUI",
     "Type": 1,
     "ModifiedOnUtc": "\/Date(1632313759000)\/",
@@ -15,6 +16,7 @@
       },
       {
         "UId": "4e4dec39-6978-34fd-5d26-3328d7212289",
+        "PackageVersion": "8.1.2",
         "Name": "DevSample",
         "Type": 1
       }

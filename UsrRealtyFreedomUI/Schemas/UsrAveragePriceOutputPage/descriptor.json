@@ -8,6 +8,7 @@
       "Name": "PageWithAreaFreedomTemplate"
     },
     "ManagerName": "ClientUnitSchemaManager",
-    "Caption": "Average price output page"
+    "Caption": "Average price output page",
+    "DependsOn": []
   }
 }

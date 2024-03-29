@@ -8,6 +8,7 @@
       "Name": "PageWithTabsFreedomTemplate"
     },
     "ManagerName": "ClientUnitSchemaManager",
-    "Caption": "Realty Converted form page"
+    "Caption": "Realty Converted form page",
+    "DependsOn": []
   }
 }

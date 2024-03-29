@@ -4,6 +4,7 @@
     "Name": "UsrRealtyService",
     "ModifiedOnUtc": "\/Date(1711550131000)\/",
     "ManagerName": "SourceCodeSchemaManager",
-    "Caption": "UsrRealtyService"
+    "Caption": "UsrRealtyService",
+    "DependsOn": []
   }
 }

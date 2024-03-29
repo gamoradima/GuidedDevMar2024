@@ -8,6 +8,7 @@
       "Name": "ListPageV2Template"
     },
     "ManagerName": "ClientUnitSchemaManager",
-    "Caption": "Realty Converted list page"
+    "Caption": "Realty Converted list page",
+    "DependsOn": []
   }
 }

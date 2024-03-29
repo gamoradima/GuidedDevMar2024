@@ -8,6 +8,7 @@
       "Name": "BaseSectionV2"
     },
     "ManagerName": "ClientUnitSchemaManager",
-    "Caption": "Section schema: \"Realty Classic\""
+    "Caption": "Section schema: \"Realty Classic\"",
+    "DependsOn": []
   }
 }

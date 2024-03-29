@@ -1,6 +1,7 @@
 ﻿{
   "Descriptor": {
     "UId": "4e4dec39-6978-34fd-5d26-3328d7212289",
+    "PackageVersion": "8.1.2",
     "Name": "DevSample",
     "Type": 1,
     "ModifiedOnUtc": "\/Date(1710778879000)\/",
